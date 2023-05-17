@@ -12,3 +12,4 @@ hello, I am metehan, I am a 1st year computer programming student. I am 20 years
 I am learning java, c#, visual code and kotlin as a program. I am actively using C#.
 Tel: 05313588643
 instagram:metehanbasaran1
+https://www.linkedin.com/public-profile/settings
